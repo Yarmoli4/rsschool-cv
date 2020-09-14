@@ -1,6 +1,5 @@
 As Karl Marx said:
-> "Free time is a space for personal development."    feat: add quote in cv file
-init: start git-markdown task
+> "Free time is a space for personal development."    
 
 ### Personal information
 Tatsiana Yarmolich, 18th June 2001, Belarusian.
