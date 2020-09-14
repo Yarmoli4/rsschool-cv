@@ -2,7 +2,11 @@ As Karl Marx said:
 > "Free time is a space for personal development."    feat: add quote in cv file
 init: start git-markdown task
 
-
+### Personal information
+Tatsiana Yarmolich, 18th June 2001, Belarusian.
+Preferred communication method:
+* contact number (+375445285111)
+* yarmolich_tatiana@mail.ru
 
 ### Summary
 I am a happy owner of an analytical mind. I can see the essence of a phenomenon, to understand its cause - this is what I do best. Moreover, I very easily find a common language with most people. 
